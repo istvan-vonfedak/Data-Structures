@@ -1,0 +1,42 @@
+START
+Batman Begins
+140
+RSTART
+5
+Everything I could have hoped for
+1
+heavily overrated
+5
+The BEST movie of the year!!!
+2
+Batman Begins To Smell
+REND
+Waterworld
+235
+RSTART
+4
+Not nearly as bad as everyone says
+-10
+Glug-Glug-Glug ...&... Gurgle-Gurgle-Gurgle
+3
+NOT the worst movie ever made
+REND
+Avengers: Age of Ultron
+141
+RSTART
+REND
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+1
+Am I missing something?
+2
+Casablah
+REND
+END

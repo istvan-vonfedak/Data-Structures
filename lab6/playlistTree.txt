@@ -1,0 +1,292 @@
+START
+PSTART
+72 hours
+300
+The Wolf of Wall Street
+300
+RSTART
+5
+One of my favorite Movies
+4
+Go Canes... GoCanes... cocanes... cocaine jk <-(flip flop)
+1
+This movie encourages violence
+REND
+PEND
+PSTART
+Almost 24h
+300
+The Wolf of Wall Street
+300
+RSTART
+5
+One of my favorite Movies
+4
+Go Canes... GoCanes... cocanes... cocaine jk <-(flip flop)
+1
+This movie encourages violence
+REND
+PEND
+PSTART
+Desvaratar
+1142
+Fight Club
+231
+RSTART
+5
+Keep calm and <code>
+5
+Great classic
+-100
+I had to pay $10 for this?!
+REND
+The Angry Birds Movie
+137
+RSTART
+0
+NO
+REND
+The Great Gatsby
+223
+RSTART
+6
+Old sport
+5
+Must watch
+4
+Why did she kill her..
+1
+The book was better
+REND
+The Revenant
+236
+RSTART
+55
+UM servers are named after winnie the pooh characters
+5
+Leo got an Oscar!
+3
+He should of died from hypothermia
+1
+Too much suffering
+REND
+Waterworld
+235
+RSTART
+4
+Not nearly as bad as everyone says
+3
+NOT the worst movie ever made
+-10
+Glug-Glug-Glug ...&... Gurgle-Gurgle-Gurgle
+REND
+PEND
+PSTART
+Good Times
+102
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+2
+Casablah
+1
+Am I missing something?
+REND
+PEND
+PSTART
+Good Vibes
+0
+PEND
+PSTART
+Meaning of life
+514
+Avengers: Age of Ultron
+141
+RSTART
+REND
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+2
+Casablah
+1
+Am I missing something?
+REND
+Fight Club
+231
+RSTART
+5
+Keep calm and <code>
+5
+Great classic
+-100
+I had to pay $10 for this?!
+REND
+PEND
+PSTART
+Simple Playlist
+1418
+Avengers: Age of Ultron
+141
+RSTART
+REND
+Batman Begins
+140
+RSTART
+5
+The BEST movie of the year!!!
+5
+Everything I could have hoped for
+2
+Batman Begins To Smell
+1
+heavily overrated
+REND
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+2
+Casablah
+1
+Am I missing something?
+REND
+Fantastic Beasts
+213
+RSTART
+1000
+@_@
+6
+If you are a grader and havent watched this movie you have to
+5
+The ending was the best!
+4
+Plot twist
+4
+I have to grade 118 after this :)
+REND
+Fight Club
+231
+RSTART
+5
+Keep calm and <code>
+5
+Great classic
+-100
+I had to pay $10 for this?!
+REND
+The Revenant
+236
+RSTART
+55
+UM servers are named after winnie the pooh characters
+5
+Leo got an Oscar!
+3
+He should of died from hypothermia
+1
+Too much suffering
+REND
+Waterworld
+235
+RSTART
+4
+Not nearly as bad as everyone says
+3
+NOT the worst movie ever made
+-10
+Glug-Glug-Glug ...&... Gurgle-Gurgle-Gurgle
+REND
+PEND
+PSTART
+Title Title
+318
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+2
+Casablah
+1
+Am I missing something?
+REND
+The Matrix
+216
+RSTART
+5
+Do we live in a Matrix 0_o?
+3
+The movie was alright
+1
+horrible date
+REND
+PEND
+PSTART
+casaaa
+213
+Fantastic Beasts
+213
+RSTART
+1000
+@_@
+6
+If you are a grader and havent watched this movie you have to
+5
+The ending was the best!
+4
+Plot twist
+4
+I have to grade 118 after this :)
+REND
+PEND
+PSTART
+woow
+318
+Casablanca
+102
+RSTART
+10000
+A masterwork for all time
+5
+Of all the classics in all the films in all the world, this is the best!
+5
+Cinema par Excellence!
+2
+Casablah
+1
+Am I missing something?
+REND
+The Matrix
+216
+RSTART
+5
+Do we live in a Matrix 0_o?
+3
+The movie was alright
+1
+horrible date
+REND
+PEND
+END

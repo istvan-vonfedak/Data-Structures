@@ -1,0 +1,85 @@
+mainMenuStart
+ MAIN MENU
+ 
+ 
+ ?     HELP             - Open help menu
+ 
+ L     LOAD             - Load data from files
+ 
+ M     MOVIE            - List and search movies
+ 
+ P     PLAYLIST         - List and configure playlists
+ 
+ Q     QUIT             - Quit the program
+ 
+ 
+~>
+mainMenuEnd
+loadMenuStart
+ LOAD MENU                                        R - Return
+ 
+ 
+ LM    LOAD MOVIES       - Load Movies from file
+ 
+ LP    LOAD PLAYLISTS    - Load Playlists from files 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+~>
+loadMenuEnd
+movieMenuStart
+ MOVIE MENU                                       R - Return    
+ 
+ 
+ LSM   LIST MOVIES      - List all Movies
+            
+ SM    SEARCH MOVIE     - Search for Movie by title
+  
+ AM    ADD MOVIE        - Adds movie to the database    
+  
+ S     SAVE             - Saves Movies
+  
+  
+ 
+   
+~>
+movieMenuEnd
+playlistMenuStart
+ PLAYLIST MENU                                    R - Return
+ 
+ 
+ LSP   LIST PLAYLISTS   - List all Playlists
+ 
+ SP    SEARCH PLAYLIST  - Search for Playlist by title  
+  
+ PLS   PLAY-LIST        - List Movies for PLaylist
+   
+ MKP   MAKE PLAYLIST    - Creates and saves Playlist
+   
+ S     SAVE             - Saves Playlists
+  
+ 
+~>
+playlistMenuEnd
+helpMenuStart
+ HELP MENU                                       R - Return 
+
+ Reading in data
+   - the file read should be in the following format:
+        START  	                  [marks start of file]
+        PSTART                    [marks start of playlist]
+        playlist title
+        movie title
+        RSTART                    [marks start of Ratings]
+        rating
+        comment
+        REND                      [marks end of Ratings]
+        PEND                    [marks end of playlist]
+        END                       [marks end of file]
+~>
+helpMenuEnd
